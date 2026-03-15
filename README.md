@@ -6,9 +6,9 @@
 
 1. Terminal üzerinden proje dizinine gidin:
    cd ne-dendy-dashboard
-2. Gerekli kütüphaneleri yükleyin ve çalıştırın.
-    npm install
-    npm run dev
+2. Gerekli kütüphaneleri yükleyin ve çalıştırın.  
+    - npm install  
+    - npm run dev
 3. Terminalde beliren http://localhost:5173/ (veya benzeri) adrese giderek projeyi görüntüleyebilirsiniz.
 
 ## Teknik Tercihler ve Nedenleri
